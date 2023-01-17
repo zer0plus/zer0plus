@@ -1,7 +1,5 @@
 ## 🔐
 
-- ☀️  I'm currently looking for Summer 2022 opportunities! 
-- 💻  I'm currently working on an algorithmic trading bot
-- 💡  I'm currently learning Data Structures, React, and Cryptography 
-- 🐱‍💻 Passionate about specializing in cyber security
-
+- ☀️  I'm currently looking for Summer 2023 opportunities! 
+- 💡  I'm currently learning Computer Vision, Neural Nets, and Algorithm design
+- 🐱‍💻 Passionate about specializing in Data Science/Machine Learning
