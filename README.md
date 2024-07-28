@@ -1,5 +1,4 @@
 ## 🔐
 
-- ☀️  I'm currently looking for Summer 2023 opportunities! 
-- 💡  I'm currently learning about Computer Vision, Neural Nets, and Algorithm design
+- 💡  I'm currently learning about CUDA
 - 🐱‍💻 Passionate about specializing in Data Science/Machine Learning
